@@ -1,0 +1,115 @@
+{
+    "versionCode": "1",
+    "quicklinks": {
+        "data": [
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Google",
+                    "url": "http://www.google.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "title": "4PDA",
+                    "url": "http://4pda.ru/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "title": "DimonVideo",
+                    "url": "http://dimonvideo.ru/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "title": "ВКонтакте",
+                    "url": "http://www.vk.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Twitter",
+                    "url": "http://twitter.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Facebook",
+                    "url": "http://www.facebook.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Wikipedia",
+                    "url": "http://www.wikipedia.org/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "eBay",
+                    "url": "http://www.ebay.com/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Одноклассники",
+                    "url": "http://m.ok.ru/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Mail.ru",
+                    "url": "http://mail.ru/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": false,
+                "site": {
+                    "title": "Yandex",
+                    "url": "http://www.yandex.ru/"
+                }
+            },
+            {
+                "movable": true,
+                "deletable": true,
+                "recommend": true,
+                "site": {
+                    "title": "Backly",
+                    "url": "http://backly.ru/"
+                }
+            }
+        ]
+    }
+}
