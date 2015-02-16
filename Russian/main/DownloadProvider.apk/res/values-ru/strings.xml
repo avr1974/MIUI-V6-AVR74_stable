@@ -10,12 +10,6 @@
     <string name="privacy_tip_ok">ОК</string>
     <string name="privacy_notif_title">Ускорение загрузки Xunlei включено</string>
     <string name="privacy_notif_content">Нажмите для просмотра информации</string>
-    <string name="notif_text_engine_on">Ускорение…</string>
-    <string name="notif_text_engine_off">Ускорение Xunlei выключено</string>
-    <string name="notif_title_single_downloading">Загрузка: %1$s</string>
-    <string name="notif_title_multiple_downloading">Загрузка файлов: %1$d</string>
-    <string name="notif_title_file_size">Размер: %1$d</string>
-    <string name="paused_waiting_for_network">Ожидание сети</string>
     <string name="app_label">Диспетчер загрузки</string>
     <string name="permlab_downloadManager">Доступ к менеджеру загрузки</string>
     <string name="permdesc_downloadManager">Приложение получит доступ к диспетчеру загрузок и сможет загружать файлы через него. Вредоносные программы смогут таким образом прерывать загрузки и просматривать личную информацию</string>

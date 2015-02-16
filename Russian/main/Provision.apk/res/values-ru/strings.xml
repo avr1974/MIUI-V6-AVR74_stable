@@ -7,8 +7,6 @@
     <string name="provision_inputmethod_policy_description1">Политика конфиденциальности</string>
     <string name="multisim_settings_title">Обнаружено 2 SIM карты</string>
     <string name="multisim_settings_category">Настройки SIM</string>
-    <string name="page_layout_title">Компоновка системы</string>
-    <string name="page_layout_label">Установите размер шрифта, положение иконок на рабочем столе, размер панели уведомлений и другие настройки.</string>
     <string name="sim_card_detection">Нет SIM карты</string>
     <string name="sim_card_detection_info">Как вставить SIM карту прочитайте в прилагаемой к устройству инструкции</string>
     <string name="sim_card_detecting">Проверка SIM карты…</string>
@@ -23,8 +21,9 @@
     <string name="sim_dectection_next">Продолжить</string>
     <string name="shut_down">Выключение</string>
     <string name="sim_redetection">Проверить SIM карту повторно</string>
-    <string name="title_congratulation">Настройка завершена</string>
-    <string name="congratulation_label">Добро пожаловать!</string>
+    <string name="logo_congratulation">Настройка завершена</string>
+    <string name="congratulation_label">Наслаждайтесь пользованием :)</string>
+    <string name="congratulation_next">Готово</string>
     <string name="pref_title_voice_slot">Предпочтительная SIM карта голоса</string>
     <string name="pref_title_data_slot">Предпочтительная SIM карта данных</string>
     <string name="summary_not_set">Не установлено</string>
@@ -41,14 +40,9 @@
     <string name="setting_locale">Настройки местоположения…</string>
     <string name="miui_terms_no_network">Сеть недоступна. Просмотрите условия пользования на %s</string>
     <string name="miui_privacy_policy_no_network">Сеть недоступна. Просмотрите политику конфиденциальности на %s</string>
+    <string name="terms_of_service">Условия пользования</string>
     <string name="locale_picker_title">Выберите местоположение</string>
     <string name="locale_picker_desc">Если вы хотите изменить местоположение позже, потребуется сделать общий сброс настроек.</string>
     <string name="locale_picker_confirm_dialog_title">Местоположение</string>
     <string name="locale_picker_confirm_dialog_desc">Выбрать \"%s\" как ваше местоположение?</string>
-    <string name="provision_finish">ОК</string>
-    <string name="provision_finish_restart">Перезагрузить</string>
-    <string name="install_preinstall_app">Загрузка приложений…</string>
-    <string name="congratulation_next">Готово</string>
-    <string name="logo_congratulation">Настройка завершена</string>
-    <string name="terms_of_service">Условия пользования</string>
 </resources>

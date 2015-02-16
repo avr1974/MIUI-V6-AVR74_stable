@@ -9,7 +9,6 @@
     <string name="download_paused">Загрузка приостановлена</string>
     <string name="download_pending">Ожидание загрузки</string>
     <string name="download_wait_connect">Ожидание соединения</string>
-    <string name="download_filesize_unknown">Неизвестно</string>
     <string name="download_info_start_deleted_tasks">Подготовка к удалению</string>
     <string name="download_info_count_deleted_tasks">Загрузок удалено: %s</string>
     <string name="menu_preferences">Параметры</string>
@@ -87,8 +86,8 @@
     <string name="cancle">Отмена</string>
     <string name="one_month">Один месяц</string>
     <string name="member_cost">Ежегодная оплата аккаунта</string>
-    <string name="xunlei_member_one_month">1 месяц</string>
-    <string name="xunlei_member_annual_fee">1 год</string>
+    <string name="xunlei_member_one_month">Аккаунт Xunlei на месяц (platinum)</string>
+    <string name="xunlei_member_annual_fee">Аккаунт Xunlei на год (platinum)</string>
     <string name="disable">Отключить</string>
     <string name="Only_the_wifi">Доступно только при подключении по Wi-Fi</string>
     <string name="all_the_internet">Все сети</string>
@@ -111,11 +110,6 @@
     <string name="privacy_tip_content">Сервис ускорения Xunlei позволяет загружать файлы на максимальной скорости. Ваша информация о Mi аккаунта будет синхронизирована для проверки активных подписок на этот сервис.</string>
     <string name="privacy_tip_cancel">Отмена</string>
     <string name="privacy_tip_ok">ОК</string>
-    <string name="xunlei_close_tips_title">Бесплатное ускорение загрузки</string>
-    <string name="xunlei_close_tips_content">95% пользователей выбирают Xunlei</string>
-    <string name="xunlei_close_tips_button">Ускорить</string>
-    <string name="toast_xunlei_engine_open">"Сервис ускорения загрузки Xunlei включен.
-Настройки сервиса доступны в правом верхнем углу."</string>
     <string name="app_label">Загрузки</string>
     <string name="download_title">Загрузки</string>
     <string name="download_title_sorted_by_date">Загрузки – по дате</string>

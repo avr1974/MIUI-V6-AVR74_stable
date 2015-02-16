@@ -12,28 +12,6 @@
         <item>По частоте использования</item>
         <item>По размеру</item>
     </string-array>
-    <string-array name="auto_clean_time">
-        <item>Ежедневно</item>
-        <item>Каждые 3 дня</item>
-        <item>Каждые 7 дней</item>
-    </string-array>
-    <string-array name="auto_clean_size">
-        <item>100 Мб</item>
-        <item>300 Мб</item>
-        <item>500 Мб</item>
-        <item>1 Гб</item>
-    </string-array>
-    <string-array name="auto_process_mode">
-        <item>Спрашивать перед очисткой</item>
-        <item>Очищать в фоне</item>
-        <item>Уведомлять после очистки</item>
-    </string-array>
-    <string-array name="auto_memory_clean">
-        <item>Через 1 минуту</item>
-        <item>Через 5 минут</item>
-        <item>Через 10 минут</item>
-        <item>Никогда</item>
-    </string-array>
     <string-array name="power_dialog_auto_clean_memory_items">
         <item>Через 1 минуту</item>
         <item>Через 5 минут</item>
@@ -53,11 +31,6 @@
         <item>Производительность</item>
         <item>Баланс</item>
     </string-array>
-    <string-array name="power_dialog_wifi_internet_state_items">
-        <item>Выключить</item>
-        <item>Включить</item>
-        <item>Не изменять</item>
-    </string-array>
     <string-array name="power_dialog_vibration_items">
         <item>Никогда</item>
         <item>В режиме \"Без звука\"</item>
@@ -75,5 +48,32 @@
         <item>Ежедневно</item>
         <item>По будням</item>
         <item>Выбрать дни</item>
+    </string-array>
+    <string-array name="power_dialog_wifi_internet_state_items">
+        <item>Выключить</item>
+        <item>Включить</item>
+        <item>Не изменять</item>
+    </string-array>
+    <string-array name="auto_clean_size">
+        <item>100 Мб</item>
+        <item>300 Мб</item>
+        <item>500 Мб</item>
+        <item>1 Гб</item>
+    </string-array>
+    <string-array name="auto_clean_time">
+        <item>Ежедневно</item>
+        <item>Каждые 3 дня</item>
+        <item>Каждые 7 дней</item>
+    </string-array>
+    <string-array name="auto_process_mode">
+        <item>Только уведомлять</item>
+        <item>Только очищать</item>
+        <item>Уведомлять и очищать</item>
+    </string-array>
+    <string-array name="auto_memory_clean">
+        <item>Через 1 минуту</item>
+        <item>Через 5 минут</item>
+        <item>Через 10 минут</item>
+        <item>Никогда</item>
     </string-array>
 </resources>

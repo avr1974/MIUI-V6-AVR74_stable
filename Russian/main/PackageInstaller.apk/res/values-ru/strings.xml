@@ -21,15 +21,6 @@
     <string name="perm_action_prompt">Запрос</string>
     <string name="perm_action_reject">Запретить</string>
     <string name="unknown_installer">Неизвестный установщик ПК</string>
-    <string name="dlg_app_replacement_statement_with_version">"Приложение: %1$s 
-Установленная версия: %3$s 
-Версия обновления: %2$s 
-
-Все пользовательские данные будут сохранены.
-Продолжить установку?"</string>
-    <string name="lift_ban">Снять запрет</string>
-    <string name="uninstall_confirm_question">Удалить это приложение?</string>
-    <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
     <string name="install_failed_system_incompatible">Это приложение не совместимо с системой MIUI</string>
     <string name="permission_group_title_charges_related">Телефон</string>
     <string name="permission_group_title_privacy_related">Конфиденциальность</string>
@@ -77,10 +68,17 @@
     <string name="dlg_app_replacement_statement">"Приложение, которое вы устанавливаете, заменит уже существующее.
 
 Все пользовательские данные будут сохранены."</string>
+    <string name="dlg_app_replacement_statement_with_version">"Приложение: %1$s 
+Установленная версия: %3$s 
+Версия обновления: %2$s 
+
+Все пользовательские данные будут сохранены.
+Продолжить установку?"</string>
     <string name="dlg_sys_app_replacement_statement">"Приложение, которое вы устанавливаете, является системным.
 
 Все пользовательские данные будут сохранены.
 Продолжить установку?"</string>
+    <string name="lift_ban">Снять запрет</string>
     <string name="out_of_space_dlg_title">Недостаточно места</string>
     <string name="out_of_space_dlg_text">Не удалось установить приложение \"%1$s\". Освободите память и повторите попытку.</string>
     <string name="dlg_ok">ОК</string>
@@ -89,6 +87,7 @@
     <string name="uninstall_application_title">Удаление приложения</string>
     <string name="uninstall_update_title">Удаление обновления</string>
     <string name="uninstall_activity_text">\"%1$s\" является частью выбранного приложения.</string>
+    <string name="uninstall_confirm_question">Удалить это приложение?</string>
     <string name="uninstall_application_text">Приложение будет удалено</string>
     <string name="uninstall_update_text">Будет восстановлена исходная версия приложения</string>
     <string name="uninstalling">Удаление…</string>
@@ -97,24 +96,7 @@
     <string name="uninstall_failed_device_policy_manager">Не удалось удалить пакет, так как он выбран для администрирования устройства</string>
     <string name="manage_device_administrators">Настройки администрирования</string>
     <string name="uninstall_failed_msg">Удалить приложение %1$s не удалось</string>
+    <string name="uninstall_failed_retained_app_msg">Приложение, измененное оператором, не может быть удалено</string>
     <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
     <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
-    <string name="all">Все разрешения</string>
-    <string name="button_cancel">Отмена</string>
-    <string name="button_continue">Продолжить</string>
-    <string name="button_continue_install">Продолжить</string>
-    <string name="button_install_lastest">Установить</string>
-    <string name="button_install_official">Установить</string>
-    <string name="button_next">Далее</string>
-    <string name="button_remove">Удалить</string>
-    <string name="installer_name">Источник: %1$s</string>
-    <string name="main_title">Установить приложение</string>
-    <string name="permission_warn_hint">Разрешения приложения:</string>
-    <string name="permission_warn_title">Приложение загружено из неизвестного истончика</string>
-    <string name="progress_verifying">Проверка…</string>
-    <string name="update_log_default">Нет списка изменений</string>
-    <string name="update_time">%4$s дата выпуска: %2$s/%3$s/%1$s.</string>
-    <string name="update_title">%1$s обновлено</string>
-    <string name="warn_message">Ваши личные данные более уязвимы для атак приложений из неизвестных источников</string>
-    <string name="warn_title">Подозрительное приложение</string>
 </resources>

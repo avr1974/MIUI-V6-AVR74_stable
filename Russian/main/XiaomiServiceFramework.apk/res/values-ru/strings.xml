@@ -6,7 +6,6 @@
     <string name="error_device_id_message">"Неверный ID устройства: %s 
 Для использования некоторых сервисов Mi Cloud требуется действительный IMEI или MAC адрес."</string>
     <string name="accept">ОК</string>
-    <string name="sync_notification_title_format">Синхронизация: %1$s</string>
     <string name="activate_phone_failed_notif_title">Не удалось активировать SIM карту</string>
     <string name="activate_phone_failed_notif_title_msim">Не удалось активировать SIM карту %s</string>
     <string name="activate_status_title_activating">Активация SIM карты</string>
@@ -76,11 +75,6 @@
     <string name="activate_popup_title_failed_phone_error">Ошибка активации</string>
     <string name="activate_popup_desc_failed_phone_error">Введен неверный номер</string>
     <string name="activate_popup_confirm_failed_phone_error">Повтор</string>
-    <string name="activate_popup_title_upload_diagnosis_info">Не удается активировать SIM карту</string>
-    <string name="activate_popup_desc_upload_diagnosis_info">Не удается активировать SIM карту. Вы можете отправить отчет для диагностики (ID отчета: %s)</string>
-    <string name="activate_popup_confirm_upload_diagnosis_info">Отправить</string>
-    <string name="activate_popup_link_diagnosis_detail">Какая информация будет включена в отчет?</string>
-    <string name="activate_popup_title_diagnosis_detail">Предупреждение</string>
     <string name="activate_feature_mx">Облачные сообщения</string>
     <string name="activate_feature_mms_sync">Синхронизация SMS</string>
     <string name="activate_feature_call_log_sync">Синхронизация вызовов</string>

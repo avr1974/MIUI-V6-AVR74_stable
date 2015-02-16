@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hfb_step_2">Следуйте инструкции</string>
-    <string name="hfb_step_3">Нажмите \"Купить\"</string>
-    <string name="hfb_succ_service_phone_tip">Обслуживание клиентов: 4006125880 (Китай)</string>
-    <string name="hfb_retry_query">Попробуйте снова</string>
     <string name="app_name">Mi Credits</string>
     <string name="format_time">d MMMM yyyy hh:mmaa</string>
     <string name="format_date">d MMMM yyyy</string>
@@ -15,14 +11,11 @@
     <string name="label_balance">"Баланс: "</string>
     <string name="label_giftcard">Подарочная карта:</string>
     <string name="title_bind_phone">Привязка номера телефона</string>
-    <string name="title_custom_service_phone">Обратитесь в службу поддержки</string>
-    <string name="summary_custom_service_phone">Тел:</string>
     <string name="summary_bind_phone">Чтобы обеспечить безопасность аккаунту, заполните данные после привязки номера телефона.</string>
     <string name="button_sms_code">Подтвердить</string>
     <string name="title_sms_code">Введите проверочный код</string>
     <string name="summary_sms_code">Чтобы обеспечить безопасность аккаунту, введите проверочный код, полученный на номер %1$s.</string>
     <string name="sms_code_hint">Проверочный код номера телефона</string>
-    <string name="sms_code_empty">Введите полученный код</string>
     <string name="sms_code_error">Ошибка проверочного кода</string>
     <string name="order_price">Mi Credits: %1$s</string>
     <string name="password_hint">Пожалуйста, введите ваш пароль Mi аккаунта</string>
@@ -35,19 +28,14 @@
     <string name="button_call">Вызов</string>
     <string name="button_pay">Оплатить</string>
     <string name="button_recharge_pay">Подтвердить</string>
+    <string name="button_recharge">Пополнить</string>
     <string name="button_bind_phone">Привязать</string>
-    <string name="button_custom_service_phone">ОК</string>
     <string name="button_count_down_reget">Получение проверочного кода (%1$s)</string>
     <string name="button_reget">Получение кода</string>
     <string name="balance_payment">Mi Credits: %1$s</string>
     <string name="giftcard_payment">Mi Credits: %1$s</string>
     <string name="partner_giftcard_payment">%1$s Mi Credits (только для %2$s)</string>
-    <string name="payment_success_title">Оплата завершена</string>
-    <string name="payment_success_label">Оплачено: %1$s Mi Credit</string>
-    <string name="button_count_down_finish">ОК(%1$s)</string>
-    <string name="payment_title">Подтверждение оплаты</string>
-    <string name="payment_with_login_title">Введите пароль Mi аккаунта</string>
-    <string name="recharge_grid_item_more">Еще</string>
+    <string name="payment_actionbar_title">Подтвердить</string>
     <string name="milicenter_title">Mi Credits</string>
     <string name="balance_title">Баланс</string>
     <string name="giftcard_value">(подарочная карта на %1$s Mi Credits)</string>
@@ -69,6 +57,9 @@
     <string name="error_cert_date_summary">"Ошибка данных сертификата. 
 Проверьте локальные данные и повторите попытку."</string>
     <string name="title_recharge">Пополнить Mi Credits</string>
+    <string name="recharge_group_familiar">Способы пополнения</string>
+    <string name="recharge_group_favorite">Используемые способы пополнения</string>
+    <string name="recharge_group_others">Другие способы пополнения</string>
     <string name="recharge_prepaid_title">Карты оплаты</string>
     <string name="recharge_alipay_title">Alipay</string>
     <string name="recharge_tenpay_title">Tenpay</string>
@@ -77,10 +68,14 @@
     <string name="recharge_voucher_title">Карты Mi Credits</string>
     <string name="recharge_pcpay_title">Пополнение через компьютер</string>
     <string name="recharge_novalid_method">Неверный способ пополнения</string>
+    <string name="account_detail">"Mi аккаунт: 
+%1$s"</string>
+    <string name="pc_pay_login">Авторизуйтесь</string>
     <string name="paytool_alipay">Alipay</string>
     <string name="paytool_tenpay">Tenpay</string>
     <string name="btn_recharge_large">Пополнить</string>
     <string name="recharge_other">Отмена</string>
+    <string name="btn_recharge_success">Готово</string>
     <string name="btn_recharge_success_quick">Готово</string>
     <string name="btn_prev">Назад</string>
     <string name="btn_next">Далее</string>
@@ -214,9 +209,9 @@
     <string name="giftcard_push_notification_sub_title">%1$s: %2$s Mi Credits (бесплатная раздача)</string>
     <string name="recharge_push_notification_prime_title">%1$d добавлено %2$s Mi Credits в ваш аккаунт</string>
     <string name="recharge_push_notification_sub_title">Пополнение завершено</string>
-    <string name="giftcard_expire_notification_prime_title">Истекает срок действия кода…</string>
-    <string name="giftcard_expire_notification_sub_title">Срок действия подарочной карты Mi Credit истекает %1$s</string>
     <string name="title_mili_center">Mi Credits</string>
+    <string name="title_recharge_record">История пополнений</string>
+    <string name="title_pay_record">История платежей</string>
     <string name="title_transaction">История</string>
     <string name="title_giftcard">Акции</string>
     <string name="giftcard_record">Подарочная карта Mi Credits</string>
@@ -225,8 +220,11 @@
     <string name="fee">Mi Credits: %1$s</string>
     <string name="fee_with_giftcard"> (%1$s)</string>
     <string name="fee_with_mibi_giftcard"> %1$s-Подарочная карта Mi Credits</string>
+    <string name="recharge_record_empty">Нет истории пополнений</string>
+    <string name="pay_record_empty">Нет истории платежей</string>
     <string name="progress_downloading">Загрузка…</string>
     <string name="btn_net_connection_retry">Повторить</string>
+    <string name="pay_record_typeall">Все</string>
     <string name="mibi_license_title">Предупреждение</string>
     <string name="mibi_license_message">Принять %1$s?</string>
     <string name="mibi_license_message_span">пользовательское соглашение Mi Credits</string>
@@ -291,20 +289,20 @@
     <string name="detail_giftcard_expired_time">Дата окончания</string>
     <string name="detail_giftcard_theme">Покупка тем</string>
     <string name="process_expired">Время ожидания истекло</string>
-    <string name="account_detail">"Mi аккаунт: 
-%1$s"</string>
-    <string name="btn_recharge_success">Готово</string>
-    <string name="button_recharge">Пополнить</string>
-    <string name="pay_record_empty">Нет истории платежей</string>
-    <string name="pay_record_typeall">Все</string>
-    <string name="payment_actionbar_title">Подтвердить</string>
-    <string name="pc_pay_login">Авторизуйтесь</string>
-    <string name="recharge_group_familiar">Способы пополнения</string>
-    <string name="recharge_group_favorite">Используемые способы пополнения</string>
-    <string name="recharge_group_others">Другие способы пополнения</string>
-    <string name="recharge_record_empty">Нет истории пополнений</string>
-    <string name="title_pay_record">История платежей</string>
-    <string name="title_recharge_record">История пополнений</string>
+    <string name="hfb_retry_query">Попробуйте снова</string>
+    <string name="hfb_step_2">Следуйте инструкции</string>
+    <string name="hfb_step_3">Нажмите \"Купить\"</string>
+    <string name="hfb_succ_service_phone_tip">Обслуживание клиентов: 4006125880 (Китай)</string>
+    <string name="button_count_down_finish">ОК(%1$s)</string>
+    <string name="button_custom_service_phone">ОК</string>
     <string name="payment_recharge_group_familiar">Выберите способ пополнения</string>
     <string name="payment_recharge_group_favorite">Способы пополнения</string>
+    <string name="payment_success_label">Оплачено: %1$s Mi Credit</string>
+    <string name="payment_success_title">Оплата завершена</string>
+    <string name="payment_title">Подтверждение оплаты</string>
+    <string name="payment_with_login_title">Введите пароль Mi аккаунта</string>
+    <string name="recharge_grid_item_more">Еще</string>
+    <string name="sms_code_empty">Введите полученный код</string>
+    <string name="summary_custom_service_phone">Тел:</string>
+    <string name="title_custom_service_phone">Обратитесь в службу поддержки</string>
 </resources>

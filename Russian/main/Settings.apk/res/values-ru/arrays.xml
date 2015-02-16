@@ -525,8 +525,8 @@
         <item>Сбалансированный</item>
     </string-array>
     <string-array name="msd_pc_system">
-        <item>Windows XP и версии ниже</item>
-        <item>Windows Vista и версии выше</item>
+        <item>Windows XP и ранние версии</item>
+        <item>Windows Vista и версии новее</item>
         <item>Mac OS</item>
         <item>Linux</item>
     </string-array>
@@ -538,7 +538,7 @@
     </string-array>
     <string-array name="msd_pc_system_install_finish_summary">
         <item>Если вы установите этот драйвер, память телефона появится на компьютере.</item>
-        <item>В Windows Vista или версиях выше, музыкальный проигрыватель появится на вашем компьютере автоматически.</item>
+        <item>В Windows Vista или версиях новее, музыкальный проигрыватель появится на вашем компьютере автоматически.</item>
         <item>Если вы установите этот драйвер, компьютер автоматически откроет и прочитает память телефона.</item>
         <item></item>
     </string-array>
@@ -563,16 +563,6 @@
     <string-array name="screen_saturation_title">
         <item>Яркая</item>
         <item>Стандартная</item>
-    </string-array>
-    <string-array name="screen_optimize_title">
-        <item>Автоматическая контрастность</item>
-        <item>Увеличение контрастности</item>
-        <item>По умолчанию</item>
-    </string-array>
-    <string-array name="screen_optimize_summary">
-        <item>Оптимизировать контрастность по окружающей освещенности</item>
-        <item>Увеличить контрастность</item>
-        <item>Не изменять контрастность</item>
     </string-array>
     <string-array name="perm_hips_action">
         <item>Разрешить</item>
@@ -636,20 +626,6 @@
         <item>Низкая</item>
         <item>Средняя</item>
         <item>Высокая</item>
-    </string-array>
-    <string-array name="handy_mode_size_text_entries">
-        <item>4.5 дюйма</item>
-        <item>4.0 дюйма</item>
-        <item>3.5 дюйма</item>
-    </string-array>
-    <string-array name="agps_network_entries">
-        <item>Домашняя сеть</item>
-        <item>Все сети</item>
-    </string-array>
-    <string-array name="agps_reset_type_entries">
-        <item>ГОРЯЧИЙ</item>
-        <item>ТЕПЛЫЙ</item>
-        <item>ХОЛОДНЫЙ</item>
     </string-array>
     <string-array name="miracast_policies">
         <item>Производительность</item>

@@ -25,7 +25,6 @@
     <string name="status_bar_toggle_drive_mode">За рулем</string>
     <string name="status_bar_toggle_wifi_ap">Wi-Fi точка</string>
     <string name="status_bar_toggle_quiet_mode">Тишина</string>
-    <string name="status_bar_toggle_paper_mode">Режим чтения</string>
     <string name="status_bar_toggle_sync_auto">Автосинхр.</string>
     <string name="status_bar_toggle_sync_manual">Синхр.</string>
     <string name="status_bar_toggle_syncing">Синхр…</string>
@@ -37,7 +36,7 @@
     <string name="reboot_confirm_title">Перезагрузить телефон?</string>
     <string name="reboot_progress">Перезагрузка…</string>
     <string name="memory_clear_result">"Очищено: %1$s
-Свободно: %2$s"</string>
+Доступно: %2$s"</string>
     <string name="memory_clear_nothing_result">Очистка памяти не требуется</string>
     <string name="device_xiaomi">Mi Phone</string>
     <string name="device_hongmi">Redmi</string>
@@ -145,5 +144,4 @@
     <string name="maml_component_customization_title">Настройки</string>
     <string name="default_name">По умолчанию</string>
     <string name="resource_select">Выбрать</string>
-    <string name="screen_paper_mode_enter_toast">Режим чтения включен. Вы можете включать и выключать эту функцию в дополнительных настройках.</string>
 </resources>
