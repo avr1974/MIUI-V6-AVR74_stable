@@ -10,6 +10,7 @@
     <string name="aqi_quality_index_hazardous">ИКВ %1$s</string>
     <string name="aqi_quality_index_break">ИКВ %1$s</string>
     <string name="view_indexes_wind_unit">км/ч</string>
+    <string name="view_realtime_clear_substitution">Ясно</string>
     <string name="weather_unit">°</string>
     <string name="weather_unit_middle">~</string>
     <string name="weather_unit_with_c">C</string>
@@ -73,5 +74,4 @@
     <string name="first_start_network_msg">Для получения прогноза погоды необходимо подключиться к интернету</string>
     <string name="first_start_network_title">Предупреждение</string>
     <string name="international_detail_menu_title">Информация</string>
-    <string name="view_realtime_clear_substitution">Ясно</string>
 </resources>

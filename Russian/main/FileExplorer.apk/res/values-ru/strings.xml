@@ -58,6 +58,7 @@
     <string name="operation_delete_confirm_message">Удаление</string>
     <string name="operation_delete_confirm_message_folder">"При удалении папки будут удалены все файлы внутри нее.
 "</string>
+    <string name="delete_dialog_button">Удалить</string>
     <string name="new_folder_name">Новая папка</string>
     <string name="sd_card_size">Всего: %1$s</string>
     <string name="sd_card_available">Свободно: %1$s</string>
@@ -308,7 +309,7 @@
     <string name="local_cache_size">Размер локального кэша: %s</string>
     <string name="query_bind_state">Запрос состояния…</string>
     <string name="tab_networkdisk">Kuaipan</string>
-    <string name="tab_phone">Телефон</string>
+    <string name="tab_phone">Устройство</string>
     <string name="tab_sys_size">Общая память</string>
     <string name="trans_task_delete_confirm_message">"Удалить выбранные загрузки? 
 
@@ -316,5 +317,7 @@
     <string name="image_download">Загрузить</string>
     <string name="image_share">Отправить</string>
     <string name="init">Запуск…</string>
-    <string name="delete_dialog_button">Удалить</string>
+    <string name="mi_router_label">Mi роутер</string>
+    <string name="usb_label">USB</string>
+    <string name="category_recent">Недавние</string>
 </resources>

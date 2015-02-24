@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="miuishare_app_name">MiuiShare</string>
+    <string name="miuishare_title_more">Еше</string>
+    <string name="miuishare_title_share">Отправить</string>
+    <string name="miuishare_account_login_ok">Войти</string>
+    <string name="miuishare_account_activate_ok">Активировать</string>
+    <string name="miuishare_account_login_cancel">Отмена</string>
+    <string name="miuishare_account_login_confirmation">Необходима авторизация</string>
+    <string name="miuishare_account_activate_confirmation">Требуется активация</string>
+    <string name="miuishare_account_need_login">Для отправки требуется привязать аккаунт Weibo к Mi аккаунту, который в настоящее время неавторизован. Авторизовать Mi аккаунт?</string>
+    <string name="miuishare_account_need_activate">Для отправки требуется привязать аккаунт Weibo к Mi аккаунту, который в настоящее время неактивен. Активируйте Mi аккаунт?</string>
+    <string name="miuishare_wechat_timeline_title">История Wechat</string>
+    <string name="miuishare_publish">Отправить</string>
+    <string name="miuishare_share_done">Отправлено</string>
+    <string name="miuishare_share_editor_title">Отправить</string>
+    <string name="miuishare_no_network">Интернет недоступен</string>
     <string name="permission_risky_money">Отправка SMS</string>
     <string name="permission_risky_privacy">Конфиденциальность</string>
     <string name="permission_risky_security">Безопасность</string>
@@ -9,7 +24,7 @@
     <string name="rank_tag">Топ</string>
     <string name="category_tag">Категории</string>
     <string name="guess_tag">Предположение</string>
-    <string name="management_tag">Телефон</string>
+    <string name="management_tag">Устройство</string>
     <string name="category_recommend_tag">Рекомендации</string>
     <string name="hot_rank_tag">Популярные</string>
     <string name="new_app_tag">Новые</string>
@@ -230,6 +245,7 @@
     <string name="loading_search_result">Загрузка результатов поиска…</string>
     <string name="loading_recommend_list">Загрузка списка рекомендаций…</string>
     <string name="loading_update_history_list">Загрузка списка обновлений…</string>
+    <string name="loading_partitial_failed">Не удается загрузить некоторые элементы</string>
     <string name="expand_full_text">Развернуть</string>
     <string name="expand_full_text_comment">Развернуть</string>
     <string name="button_refresh">Обновить</string>
@@ -258,6 +274,9 @@
     <string name="notif_summary_auto_update_on">Mi Маркет будет обновлять приложения автоматически</string>
     <string name="share_subject">Отправить: %1$s</string>
     <string name="share_text">Вот приложение, которое я думаю, тебе может понравиться: %1$s，вот ссылка ：%2$s</string>
+    <string name="share_weibo_text">Скачать: %1$s</string>
+    <string name="share_weibo_from">Источник: Mi Маркет %1$s</string>
+    <string name="share_weibo_endnote">Загрузить по ссылке</string>
     <string name="already_bottom">Вы достигли конца страницы</string>
     <string name="install_title">Установка приложения</string>
     <string name="install_no_network_description">Нет сетевого подключения, подключитесь и попробуйте еще раз</string>
@@ -327,6 +346,11 @@
     <string name="no_download_history">Нет загруженных приложений</string>
     <string name="no_favorites">Нет избранного</string>
     <string name="download_history_login_hint">Войдите в Mi аккаунт для просмотра истории установленных приложений</string>
+    <string name="delete_download_history_failed">Не удалось удалить историю загрузки</string>
+    <string name="delete_download_history_success">История загрузки удалена</string>
+    <string name="delete_download_history_partition_failed">Не удалось удалить некоторые записи истории</string>
+    <string name="delete_download_history_confirm">Удалить выбранные записи? (%1$s)</string>
+    <string name="delete_selected_download_history">Удалить записи</string>
     <string name="expansion_main_download_name">%1$s пак.1</string>
     <string name="expansion_append_download_name">%1$s пак.2</string>
     <string name="expansion_game_download_name">%1$s пак</string>
@@ -353,17 +377,19 @@
     <string name="look_more">Еще</string>
     <string name="app_detail_result_tip">Информация о приложении из %1$s</string>
     <string name="search_other_market">Поиск других приложений</string>
-    <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
-    <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
-    <string name="delete_download_history_failed">Не удалось удалить историю загрузки</string>
-    <string name="delete_download_history_success">История загрузки удалена</string>
-    <string name="delete_download_history_partition_failed">Не удалось удалить некоторые записи истории</string>
-    <string name="delete_download_history_confirm">Удалить выбранные записи? (%1$s)</string>
-    <string name="delete_selected_download_history">Удалить записи</string>
     <string name="progress_downloading">Загрузка</string>
     <string name="progress_paused">Пауза</string>
     <string name="progress_installing">Установка</string>
     <string name="progress_pending">Ожидание</string>
     <string name="select_item">Выбрано: 0</string>
     <string name="items_selected">Выбрано: %1$s</string>
+    <string name="connect_no_enough_space">Не хватает места для установки приложения. Пожалуйста, освободите место и попробуйте снова.</string>
+    <string name="result_notice">Результаты предоставленны сервисом приложений Baidu</string>
+    <string name="pref_title_receive_push_message">Получать Push сообщения</string>
+    <string name="pref_title_collapse_rank_list">Фильтр рекомендованных приложений</string>
+    <string name="pref_summary_collapse_rank_list">Не показывать установленные приложения в списке рекомендуемых</string>
+    <string name="search_popular_hint_title">Популярные</string>
+    <string name="search_history_title">История</string>
+    <string name="collapse_rank_list">Установить фильтр</string>
+    <string name="relate_apps">Похожие приложения</string>
 </resources>

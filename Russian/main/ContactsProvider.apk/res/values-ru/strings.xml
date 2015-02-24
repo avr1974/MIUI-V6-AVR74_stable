@@ -18,7 +18,7 @@
     <string name="debug_dump_start_button">Начать</string>
     <string name="debug_dump_email_sender_picker">Способ отправки</string>
     <string name="debug_dump_email_subject">База контактов</string>
-    <string name="debug_dump_email_body">Это база моих контактов со всеми данными.</string>
+    <string name="debug_dump_email_body">Это база моих контактов со всеми данными</string>
     <string name="pound_search_tip">Введите номер для поиска контактов SIM</string>
     <string name="create_contact">Новый контакт</string>
     <string name="send_sms">Отправить сообщение</string>
@@ -30,4 +30,5 @@
     <string name="group_name_family">Семья</string>
     <string name="group_name_friends">Друзья</string>
     <string name="unknown">Неизвестный номер</string>
+    <string name="search_the_yellowpage">Поиск сервиса</string>
 </resources>

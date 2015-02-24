@@ -79,4 +79,10 @@
     <string name="activate_feature_mms_sync">Синхронизация SMS</string>
     <string name="activate_feature_call_log_sync">Синхронизация вызовов</string>
     <string name="activate_feature_find_device">Поиск устройства</string>
+    <string name="sync_notification_title_format">Синхронизация: %1$s</string>
+    <string name="activate_popup_confirm_upload_diagnosis_info">Отправить</string>
+    <string name="activate_popup_desc_upload_diagnosis_info">Не удается активировать SIM карту. Вы можете отправить отчет для диагностики (ID отчета: %s)</string>
+    <string name="activate_popup_link_diagnosis_detail">Какая информация будет включена в отчет?</string>
+    <string name="activate_popup_title_diagnosis_detail">Предупреждение</string>
+    <string name="activate_popup_title_upload_diagnosis_info">Не удается активировать SIM карту</string>
 </resources>

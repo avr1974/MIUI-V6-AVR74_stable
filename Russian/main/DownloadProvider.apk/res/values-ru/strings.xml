@@ -51,4 +51,10 @@
     <string name="download_running">В процессе</string>
     <string name="download_error">Ошибка загрузки</string>
     <string name="download_running_percent">Процесс: %d%%</string>
+    <string name="notif_text_engine_off">Ускорение Xunlei выключено</string>
+    <string name="notif_text_engine_on">Ускорение…</string>
+    <string name="notif_title_file_size">Размер: %1$d</string>
+    <string name="notif_title_multiple_downloading">Загрузка файлов: %1$d</string>
+    <string name="notif_title_single_downloading">Загрузка: %1$s</string>
+    <string name="paused_waiting_for_network">Ожидание сети</string>
 </resources>

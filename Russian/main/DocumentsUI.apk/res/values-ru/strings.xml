@@ -35,4 +35,5 @@
     <string name="toast_no_application">Невозможно открыть файл</string>
     <string name="toast_failed_delete">Невозможно удалить некоторые элементы</string>
     <string name="share_via">Способ отправки</string>
+    <string name="toast_not_show_thumbnail">Не хватает оперативной памяти для отображения эскиза</string>
 </resources>

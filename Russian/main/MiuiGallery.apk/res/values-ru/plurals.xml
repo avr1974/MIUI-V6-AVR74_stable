@@ -17,12 +17,12 @@
         <item quantity="one">Удалить %s видео?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_image">
-        <item quantity="other">Удалить %s фото из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
-        <item quantity="one">Удалить %s фото из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="other">Удалить %s фото из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Удалить %s фото из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
     </plurals>
     <plurals name="confirm_delete_has_cloud_local_video">
-        <item quantity="other">Удалить %s видео из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
-        <item quantity="one">Удалить %s видео из &amp;lt;b>памяти телефона и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="other">Удалить %s видео из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
+        <item quantity="one">Удалить %s видео из &amp;lt;b>памяти устройства и Mi Cloud&amp;lt;/b>?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">Выбрано: %1$d</item>
@@ -43,5 +43,25 @@
         <item quantity="other">Файлов: %1$d</item>
         <item quantity="zero">Файлов: %1$d</item>
         <item quantity="one">Файлов: %1$d</item>
+    </plurals>
+    <plurals name="how_many_pics">
+        <item quantity="other">%d фото</item>
+        <item quantity="one">%d фото</item>
+    </plurals>
+    <plurals name="how_many_sub_folders">
+        <item quantity="other">Папок: %d</item>
+        <item quantity="one">Папок: %d</item>
+    </plurals>
+    <plurals name="how_many_videos">
+        <item quantity="other">%d видео</item>
+        <item quantity="one">%d видео</item>
+    </plurals>
+    <plurals name="message_no_delete_access_with_count">
+        <item quantity="other">Нет доступа для удаления этих файлов (%d)</item>
+        <item quantity="one">Нет доступа для удаления этих файлов (%d)</item>
+    </plurals>
+    <plurals name="pick_with_limited_upper_bound_title">
+        <item quantity="other">Вы можете выбрать элементов: %d</item>
+        <item quantity="one">Вы можете выбрать элементов: %d</item>
     </plurals>
 </resources>

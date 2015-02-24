@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="confirm_delete_conversation">
-        <item quantity="other">"Удалить выбранные диалоги? 
-
-Диалогов: %1$s"</item>
-        <item quantity="one">Удалить выбранный диалог?</item>
+        <item quantity="other">Удалить диалоги? (%1$s)</item>
+        <item quantity="one">Удалить диалог?</item>
     </plurals>
     <plurals name="slide_duration">
         <item quantity="other">%s сек.</item>

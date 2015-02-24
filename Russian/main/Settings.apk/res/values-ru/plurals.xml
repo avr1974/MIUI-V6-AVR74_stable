@@ -43,8 +43,8 @@
         <item quantity="one">Найдено принтеров: %1$s</item>
     </plurals>
     <plurals name="show_pho_countdown">
-        <item quantity="other">Осталось нажатий для открытия информации о телефоне: %1$d</item>
-        <item quantity="one">Осталось нажатий для открытия информации о телефоне: %1$d</item>
+        <item quantity="other">Осталось нажатий для открытия информации об устройстве: %1$d</item>
+        <item quantity="one">Осталось нажатий для открытия информации об устройстве: %1$d</item>
     </plurals>
     <plurals name="show_cit_countdown">
         <item quantity="other">Осталось нажатий для входа в инженерное меню: %1$d</item>

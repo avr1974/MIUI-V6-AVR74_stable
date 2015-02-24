@@ -54,4 +54,13 @@
         <item>Автоматически получить шаблон сообщения</item>
         <item>Задать шаблон сообщения вручную</item>
     </string-array>
+    <string-array name="min_limit_pkg_default">
+        <item>1 Мб</item>
+        <item>2 Мб</item>
+        <item>3 Мб</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Предупреждать о трафике</item>
+        <item>Отключать интернет</item>
+    </string-array>
 </resources>

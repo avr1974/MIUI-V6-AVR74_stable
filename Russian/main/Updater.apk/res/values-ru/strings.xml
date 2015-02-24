@@ -24,8 +24,8 @@
     <string name="miui_summary_no_new_version">Нет обновлений</string>
     <string name="button_text_check">Проверить обновление</string>
     <string name="button_text_update">Обновить</string>
-    <string name="button_text_reboot">Перезагрузить</string>
-    <string name="button_text_reboot_hm">Перезагрузить</string>
+    <string name="button_text_reboot">Перезагрузка</string>
+    <string name="button_text_reboot_hm">Перезагрузка</string>
     <string name="button_text_later_reboot">Позже</string>
     <string name="download_title_first">Получение данных обновления</string>
     <string name="download_title_full_download">Прошивка загружена и готова к установке</string>
@@ -53,7 +53,7 @@
     <string name="dialog_ok">ОК</string>
     <string name="cancel_download">Отменить загрузку?</string>
     <string name="downloading_description">Загрузка…</string>
-    <string name="apply_upload_info_message">Нажмите \"Обновить\". Телефон будет автоматически перезагружен для применения обновлений</string>
+    <string name="apply_upload_info_message">Нажмите \"Обновить\". Устройство будет автоматически перезагружено для применения обновлений.</string>
     <string name="apply_now_button_text">Обновить</string>
     <string name="apply_later_button_text">Отмена</string>
     <string name="reboot_to_new_system">Перезагрузка в новую систему</string>
@@ -67,8 +67,10 @@
     <string name="notification_new_version">Доступна новая версия %s</string>
     <string name="notification_update_now">Обновить</string>
     <string name="notification_reboot_title">Обновление завершено</string>
+    <string name="notification_reboot_title_hm">Обновление установлено</string>
+    <string name="notification_reboot_summary_hm">Нажмите для перезагрузки</string>
     <string name="notification_reboot_des">Обновлено завершено: %s. Требуется перезагрузка.</string>
-    <string name="notification_reboot_btn">Перезагрузить</string>
+    <string name="notification_reboot_btn">Перезагрузка</string>
     <string name="notification_reboot_seccess_title">Обновление завершено</string>
     <string name="notification_reboot_seccess_des">Рассказать друзьям</string>
     <string name="notification_share">Поделиться</string>
@@ -87,7 +89,7 @@
     <string name="space_not_enough_msg">Недостаточно места для загрузки прошивки</string>
     <string name="no_wifi_title">Предупреждение</string>
     <string name="no_wifi_msg">Размер прошивки слишком большой, рекомендуется скачать его по сети Wi-Fi. Продолжить загрузку через мобильный интернет?</string>
-    <string name="go_on_download">Продолжить загрузку</string>
+    <string name="go_on_download">Загрузить</string>
     <string name="pause">Пауза</string>
     <string name="repeat">Повтор</string>
     <string name="user_begin">ОК</string>
@@ -96,8 +98,19 @@
     <string name="user_intertup_download_title">Продолжить загрузку?</string>
     <string name="user_intertup_download_msg">Загрузка обновления остановлена</string>
     <string name="check_update_when_wifi_available_sum">Проверять обновления только по сети Wi-Fi</string>
+    <string name="important_suggestion">Политика конфиденциальности изменена</string>
+    <string name="auto_dialog_msg">"Внимательно прочтите измененную политику конфиденциальности перед обновлением. "</string>
+    <string name="auto_button_examine">Показать</string>
+    <string name="auto_check_clause_msg">"Необходимо принять измененную политику конфиденциальности перед обновлением. "</string>
+    <string name="auto_check_clause_button">Показать</string>
+    <string name="auto_agree_clause">"Наша обновленная политика конфиденциальности уже вступила в силу. "</string>
+    <string name="auto_dialog_title_check_again">Отменить обновление?</string>
+    <string name="auto_dialog_msg_check_again">"Необходимо принять измененную политику конфиденциальности перед обновлением. "</string>
+    <string name="auto_button_examine_immediately">Показать</string>
+    <string name="auto_button_sure_cancel">Отмена</string>
     <string name="auto_update_sum">Устанавливать обновление автоматически после загрузки</string>
-    <string name="updater_nonetwork">Включите интернет, чтобы посмотреть список изменений.</string>
+    <string name="updater_nonetwork">Включите интернет для просмотра списка изменений</string>
+    <string name="updater_nonetwork_clause">Включите интернет для просмотра измененной политики конфиденциальности</string>
     <string name="updater_nolog">Отчет отсутствует</string>
     <string name="notification_load_title_alpha">Войдите в Mi аккаунт</string>
     <string name="notification_load_title_dev">Войдите в Mi аккаунт</string>
@@ -114,7 +127,7 @@
     <string name="stable_build">стабильная сборка</string>
     <string name="unstable_build">нестабильная сборка</string>
     <string name="particular_build">особая сборка</string>
-    <string name="about_device">О телефоне</string>
+    <string name="about_device">Об устройстве</string>
     <string name="emegency_build">Сборка:</string>
     <string name="loading">Загрузка…</string>
     <string name="share_update">Поделиться</string>
@@ -244,7 +257,7 @@
     <string name="send_install_log">Отправить журнал</string>
     <string name="send_install_log_error">Не удалось отправить журнал ошибок</string>
     <string name="sign_in_add_account">Активируйте Mi аккаунт</string>
-    <string name="sign_in_add_account_helper">В вашем телефоне нет аккаунта MIUI, пожалуйста добавьте его</string>
+    <string name="sign_in_add_account_helper">Войдите в Mi аккаунт</string>
     <string name="sign_in_info">"Рейтинг обновления: %1$s%%
 %2$s
 Версия: %3$s"</string>
@@ -268,24 +281,14 @@
     <string name="view_install_log">Просмотр журнала</string>
     <string name="wifi_not_available_body">Файл прошивки слишком большой, рекомендуется скачать его через Wi-Fi. Ваш Wi-Fi в настоящее время отключен, вы хотите продолжить загрузку через мобильную сеть?</string>
     <string name="wifi_not_available_title">Wi-Fi не подключен</string>
-    <string name="auto_agree_clause">"Обновленная Политика конфиденциальности уже действует. "</string>
-    <string name="auto_button_examine">Просмотр</string>
-    <string name="auto_button_examine_immediately">Просмотр</string>
-    <string name="auto_button_sure_cancel">Отмена</string>
-    <string name="auto_check_clause_button">Просмотр</string>
-    <string name="auto_check_clause_msg">"Перед обновлением системы необходимо обновленную принять Политику конфиденциальности. "</string>
-    <string name="auto_dialog_msg">"Мы обновили Политику конфиденциальности. Прочтите ее перед обновлением системы. "</string>
-    <string name="auto_dialog_msg_check_again">"Необходимо принять Политику конфиденциальности перед обновлением системы "</string>
-    <string name="auto_dialog_title_check_again">Отменить обновление?</string>
-    <string name="important_suggestion">Политика конфиденциальности обновлена</string>
-    <string name="updater_nonetwork_clause">Подключитесь к интернету для просмотра Политики конфиденциальности</string>
-    <string name="notification_reboot_summary_hm">Нажмите для перезагрузки</string>
-    <string name="notification_reboot_title_hm">Обновление установлено</string>
     <string name="button_text_reboot_now">Перезагрузка</string>
     <string name="download_rom_update_timer">Загрузка прошивки через %d сек.</string>
-    <string name="notify_title_reboot_now">Необходима перезагрузка</string>
-    <string name="toast_msg_reboot">Успешное обновление, необходима перезагрузка.</string>
+    <string name="notify_title_reboot_now">Требуется перезагрузка</string>
+    <string name="toast_msg_reboot">Обновление завершено. Требуется перезагрузка.</string>
     <string name="toast_need_login">Войдите в Mi аккаунт</string>
     <string name="toast_not_enough_free_space">Недостаточно места для OTA</string>
-    <string name="toast_update_failed_hints">Не удалось обновить. Для повторной попытки необходима перезагрузка.</string>
+    <string name="toast_update_failed_hints">Не удалось обновить. Для повторной попытки требуется перезагрузка.</string>
+    <string name="clean_up_button">Очистить</string>
+    <string name="update_feedback_need_account">Сначала необходимо войти в Mi аккаунт</string>
+    <string name="update_feedback_need_network">Требуется подключение к интернету</string>
 </resources>

@@ -68,4 +68,9 @@
         <item>Китайский</item>
         <item>Иврит</item>
     </string-array>
+    <string-array name="clir_display_values">
+        <item>По умолчанию</item>
+        <item>Скрыть номер</item>
+        <item>Показать номер</item>
+    </string-array>
 </resources>

@@ -75,7 +75,6 @@
     <string name="vp_unknown_source">Неизвестный источник</string>
     <string name="vp_download_file_fail">Ошибка загрузки. Убедитесь, что на устройстве достаточно свободной памяти.</string>
     <string name="vp_download_connect_fail">Проверьте параметры сети и повторите попытку</string>
-    <string name="file_not_exist">Файл не существует</string>
     <string name="temp_play_history_button_label">История просмотра</string>
     <string name="vp_VideoView_error_text_invalid_progressive_playback">Данный тип файлов не поддерживается</string>
     <string name="vp_VideoView_error_text_unknown">Ошибка воспроизведения</string>
@@ -126,7 +125,6 @@
     <string name="menu_item_enable_audio_enhance">Улучшение звука</string>
     <string name="menu_item_disable_audio_enhance">Улучшение звука</string>
     <string name="vp_next_ci">Следующий эпизод</string>
-    <string name="vp_low_definition">Низкое</string>
     <string name="vp_standard_definition">Стандартное</string>
     <string name="vp_high_definition">HD</string>
     <string name="vp_super_definition">Отличное</string>
@@ -152,7 +150,6 @@
     <string name="vp_offline_status_fail">Ошибка</string>
     <string name="vp_offline_title_name">Эпизод %d</string>
     <string name="vp_select_video_source">Выбор ресурса</string>
-    <string name="vp_select_video_definition">Выберите разрешение</string>
     <string name="vp_select_ep">Выберите эпизод</string>
     <string name="vp_device_list">Устройства</string>
     <string name="vp_select_function">Настройки</string>
@@ -183,11 +180,6 @@
     <string name="vp_maintitlearea">Наслаждайтесь звуком высокой четкости, высокой скоростью загрузки и множеством видео онлайн! Загрузить плагин?</string>
     <string name="vp_toast_downloadapk">Загрузка приложения в фоне…</string>
     <string name="vp_video_loading"><CDATA>Загрузка…</CDATA></string>
-    <string name="vp_datastream_alert_play">При воспроизведении видео по мобильному интернету может взиматься дополнительная плата за трафик</string>
-    <string name="vp_datastream_alert_hint">Вы можете выключить уведомление о трафике в настройках видео</string>
-    <string name="vp_datastream_alert_positive_button">Продолжить</string>
-    <string name="vp_datastream_alert_negative_button">Отмена</string>
-    <string name="vp_datastream_alert_title">Предупреждение о трафике</string>
     <string name="declaration_allow">ОК</string>
     <string name="declaration_content_td_custom">Разрешить доступ к мобильному интернету для просмотра видео?</string>
     <string name="declaration_content">Принять <a href="http://www.youku.com/pub/youku/service/agreement.shtml#agr1">условия пользования</a> Sohu Video и iQiyi и других поставщиков?</string>
@@ -215,7 +207,6 @@
     <string name="video_version">Версия: %s</string>
     <string name="video_declare">Авториские права | Отказ от ответственности</string>
     <string name="more">Перейти %s</string>
-    <string name="partner_specials">Партнер</string>
     <string name="local_video">Локальные</string>
     <string name="my_favorite">Избранные</string>
     <string name="my_offline">Загруженные</string>
@@ -229,7 +220,7 @@
     <string name="error_empty_title">Ошибка</string>
     <string name="error_empty_filter_title">Нет результатов</string>
     <string name="local_media_empty_title">Нет видео</string>
-    <string name="local_media_empty_sub_title">Загрузить и просмотреть видео в автономном режиме</string>
+    <string name="local_media_empty_sub_title">Загрузка и просмотр видео локально</string>
     <string name="play_his_empty_title">Пусто</string>
     <string name="local_favorite_empty_title">Пусто</string>
     <string name="offline_media_empty_title">Пусто</string>
@@ -436,13 +427,29 @@
     <string name="toast_message_set_misound">Настройте Mi Sound</string>
     <string name="vp_error_get_play_url_back_to_continue">Не удается найти URL этого видео</string>
     <string name="vp_support_by">Поддержка: %1$s</string>
+    <string name="vp_datastream_alert_hint">Вы можете выключить уведомление о трафике в настройках видео</string>
+    <string name="vp_datastream_alert_play">При воспроизведении видео по мобильному интернету может взиматься дополнительная плата за трафик</string>
     <string name="select_media_source">Выберите источник</string>
     <string name="hint_can_not_get_source_info">Не удалось получить информацию о видео</string>
     <string name="hint_without_selected_set">Автоматический поиск источника контента</string>
+    <string name="partner_specials">Партнер</string>
+    <string name="file_not_exist">Файл не существует</string>
     <string name="channel_all_empty_hint">Пусто</string>
     <string name="shared_devices">Общие устройства</string>
     <string name="hot_special">Специальные</string>
     <string name="search_result_recommend_hint">Рекомендуемые</string>
     <string name="search_result_recommend_empty">Нет результатов</string>
     <string name="offline_video">Локальные</string>
+    <string name="vp_low_definition">Низкое</string>
+    <string name="vp_select_video_definition">Выберите разрешение</string>
+    <string name="vp_datastream_alert_negative_button">Отмена</string>
+    <string name="vp_datastream_alert_positive_button">Продолжить</string>
+    <string name="vp_datastream_alert_title">Предупреждение о трафике</string>
+    <string name="baodian">Категории</string>
+    <string name="catoon">Мультфильмы</string>
+    <string name="hollywood">Голливуд</string>
+    <string name="japank">Японское ТВ</string>
+    <string name="usa">Американское ТВ</string>
+    <string name="koreak">Корейское ТВ</string>
+    <string name="app_recommend">Рекомендуемые</string>
 </resources>

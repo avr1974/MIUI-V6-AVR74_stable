@@ -19,10 +19,6 @@
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: %d</item>
     </plurals>
-    <plurals name="Ntracks_similar_count">
-        <item quantity="other">Похожих треков: %d</item>
-        <item quantity="one">Похожих треков: %d</item>
-    </plurals>
     <plurals name="Ntracks_add_to_playlist">
         <item quantity="other">Добавлено треков в плейлист: %d</item>
         <item quantity="one">Трек добавлен в плейлист</item>
@@ -42,5 +38,9 @@
     <plurals name="folder_songs_count">
         <item quantity="other">Треков: %d</item>
         <item quantity="one">Треков: 1</item>
+    </plurals>
+    <plurals name="Ntracks_similar_count">
+        <item quantity="other">Похожих треков: %d</item>
+        <item quantity="one">Похожих треков: %d</item>
     </plurals>
 </resources>
